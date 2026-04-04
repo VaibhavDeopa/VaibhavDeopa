@@ -23,7 +23,6 @@
 </p>
 
 <h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="28">&nbsp;About Me</h2>
-<img align="right" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif" width="200" />
 <ul>
   <li>🔭 Currently exploring High-Performance Systems and Cloud Architecture</li>
   <li>💻 Developing full-stack applications with a focus on scalability</li>
