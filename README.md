@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="SRC_URL_HERE" alt="Vaibhav Banner" width="100%" />
+  <img src="d38f5bdf80f587c3904efef95cd1249c.jpg" alt="Vaibhav Banner" width="100%" />
 </p>
 
 <h1 align="center">
