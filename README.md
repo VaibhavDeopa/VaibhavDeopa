@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="d38f5bdf80f587c3904efef95cd1249c.jpg" alt="Vaibhav Banner" width="100%" />
+  <img src="5568f2a7c86878aa82b411cda8cd8cf9.jpg" alt="Vaibhav Banner" width="100%" />
 </p>
 
 <h1 align="center">
